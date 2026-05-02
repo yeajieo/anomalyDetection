@@ -19,7 +19,7 @@ This project detects anomalies in pig activity data to identify early signs of d
 |------|--------|
 | **Organization** | ETRI (Electronics and Telecommunications Research Institute) |
 | **Period** | November 4, 2022 ~ November 7, 2022 |
-| **Team Size** | 1 person |
+| **Team Size** | 2 person |
 | **IDE** | Jupyter Notebook |
 | **Data Source** | Pig experiment data provided by a university (April 10 ~ April 29, 2021) |
 
